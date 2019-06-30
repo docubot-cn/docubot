@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Docubot</string>
+
+    <string name="action_new">New</string>
+
+    <string name="action_open">Open</string>
+
+    <string name="action_save">Save</string>
+
+
+
+</resources>

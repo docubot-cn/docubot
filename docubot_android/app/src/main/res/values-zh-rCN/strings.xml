@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Docubot</string>
+    <string name="action_new">新建</string>
+    <string name="action_open">打开</string>
+
+    <string name="action_save">保存</string>
+</resources>
